@@ -25,6 +25,7 @@ Here is a list of the most popular Vendor IDs:
 | `HBMT` | `48424d54` | HiSense              |
 | `HWTC` | `48575443` | Huawei               |
 | `ISKT` | `49534b54` | Iskratel             |
+| `ITBS` | `49544253 `| Intelbras            |
 | `LEOX` | `4c454f58` | LEOX                 |
 | `LQDE` | `4c514445` | Lantiq               |
 | `PTIN` | `5054494e` | Altice/PT Inovação   |
@@ -36,6 +37,7 @@ Here is a list of the most popular Vendor IDs:
 | `TPLG` | `54504c47` | TP-Link              |
 | `UBNT` | `55424e54` | Ubiquiti             |
 | `ZTEG` | `5a544547` | ZTE                  |
+| `ZNTS` | `5a4e5453` | Zhone/Dasan/DZS      |
 | `ZYWN` | `5a59574e` | Zyxel                |
 
 {% include alert.html content="You can also help us with the content of this site, on each page you will find a button to edit on GitHub." alert="Tip"  icon="svg-info" color="green" %}
